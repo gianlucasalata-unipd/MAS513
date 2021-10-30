@@ -1,6 +1,7 @@
 # MAS513-Advanced Robotics project
 
-This paper addresses the application of a non contact sensor for the detection of rolling-element bearing damage in induction machines; in particular using a Radar to detect vibrations of motor's shaft.
+This paper addresses the application of a non contact sensor for the detection of rolling-element bearing damage in induction machines; in particular using a Radar to detect vibrations of motor's shaft. The complete description of the expriment with the anlayss of the data cna be foud: 
+[a link](https://github.com/gianlucasalata-unipd/MAS513-Continuous_motors_health_monitoring/blob/main/Third_assignment.pdf)
 
 ## Experimental  Hardware
 
