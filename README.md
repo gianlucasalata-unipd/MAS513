@@ -33,6 +33,7 @@ Follow all the steps described below to replicate the experiment:
 - Connect the powersupply to the simulator
 - Press the button _Power_ to active the VFD and the control panel turns on
 - In order  to set the rotational speed of the shaft: from the VFD control panel, press the button _mode_ until a **F** appear on the screen and using the knob set the frequency. **ATTENTION**: The value on the screen is the supplying voltage frequncy in Hz, the corresponded rotational speed of the shaft is: omega=(60*F)/2;
-- Press the button _motor run/stop_ to start up the motor. For safety reasons the plexiglass enclosure must be closed; this safety can be bypassed pressing the electrical switch located behind the motor for the entire run.
+ ![Alt text](/img/VFD.png?raw=true)
+- Press the button _motor run/stop_ to start up the motor. For safety reasons the plexiglass enclosure must be closed; this safety can be bypassed pressing the electrical switch located behind the motor for the entire motor's run.
 - 
 
