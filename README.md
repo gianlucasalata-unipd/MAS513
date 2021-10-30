@@ -9,10 +9,12 @@ In order to measure the vibration of the shaft using a radar, which is character
 
   ![Alt text](/img/vibration_simulator.png?raw=true)
 ### Radar and Caputer Card(TI-AWR1843+TI-DCA1000EVM)
---------
+
  ![Alt text](/img/radar.jpg?raw=true)
+ --------
+# Procedure
 ## Steps
-Follow all the steps described below to replicate the experiment
+Follow all the steps described below to replicate the experiment:
 
 
 Gianluca Salata
