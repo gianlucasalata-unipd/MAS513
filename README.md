@@ -26,9 +26,9 @@ The experimental setup require that the radar is located perpendicular to the gr
  ![Alt text](/img/experimental_setup.png?raw=true)
 
  Is recommended to cover all the enviroment parts that  are close to the target which  can easily reflect the radio waves; as noticeble in the prevoius image the background is covered with cardoboard in order to reduce the reflection and also all the front part are covered with some paper creating an ideal "tunnel" that should guide the radar to the target (turn off the lights is suggested). All this procedures are to reduce the reflection so reducing the noise in the radar measurements.
-## Steps
+## Guides
 
-Follow all the steps described below to replicate the experiment:
+Follow all the steps described below to set up the vibration simulator
 - Put in the central slot of the shaft's mounts the bearings you want to use. The defective bearings are marked with: **I** if there is defect in the inner race, **O** if there is a defect in the outer race
 - Connect the powersupply to the simulator
 - Press the button _Power_ to active the VFD and the control panel turns on
