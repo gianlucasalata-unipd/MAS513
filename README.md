@@ -2,5 +2,7 @@
 Follow all the steps described below to replicate the experiment
 ## Experimental Setup Hardware
 
+![Alt text](./sick_scan_test.png?raw=true "princile of test program")
+
 
 Gianluca Salata
