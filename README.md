@@ -29,4 +29,7 @@ The experimental setup require that the radar is located perpendicular to the gr
 ## Steps
 
 Follow all the steps described below to replicate the experiment:
-- Put in the central slot of the shaft's mounts the bearings you want to use. The defective bearings are marked with: **I**
+- Put in the central slot of the shaft's mounts the bearings you want to use. The defective bearings are marked with: **I** if there is defect in the inner race, **O** if there is a defect in the outer race
+- Connect the powersupply to the simulator
+- Press the button _Power_ to active the VFD and the control panel turns on
+- In order  to set the rotational speed of the shaft: from the VFD control panel, press the button _mode_ until a **F** appear on the screen and using the knob set the frequency. **IMPORTANT**: The value on the screen is the supplying voltage frequncy in Hz, the corresponded rotational speed of the shaft is: omega=(60*F)/2;
