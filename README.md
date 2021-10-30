@@ -13,8 +13,9 @@ In order to measure the vibration of the shaft using a radar, which is character
  ![Alt text](/img/radar.jpg?raw=true)
  --------
 # Procedure
-The experimental setup require that the radar is located perpendicular to the ground and point straith to the target as shown un the figure below:
+The experimental setup require that the radar is located perpendicular to the ground and point straight to the target as shown un the figure below:
  ![Alt text](/img/experimental_setup.png?raw=true)
+ Is recommended to cover all the enviroment parts vclose to the target that can easily reflect the radio waves; as noticeble in he prevoius image the background is covered with cardoboard in order to reduce the reflection and also all the fron part are covered with some paper creating an ideal "tunnel" that should guides the radar to the target (turn off the lights is suggested). All this procedures are to redcue the reflection, reducing th enoise in the radar measurements.
 ## Steps
 Follow all the steps described below to replicate the experiment:
 
