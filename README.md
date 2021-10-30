@@ -8,8 +8,8 @@ A magnetic brake (3), working as a load, is coupled to the main shaft through a 
 In order to measure the vibration of the shaft using a radar, which is characterized by a low resolution (approx. 1mm), the target is located on the right end where the oscillations are higher beacuse is and free end without constraints.
 
   ![Alt text](/img/vibration_simulator.png?raw=true)
-### Radar( DyLab MVS-510)
-
+### Radar and Caputer card(TI-AWR1843+TI-DCA1000EVM)
+ ![Alt text](/img/radar.jpg?raw=true)
 ## Steps
 Follow all the steps described below to replicate the experiment
 
