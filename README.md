@@ -55,7 +55,19 @@ And this software:
 Follow all the steps described below to set up the radar:
 -  set to development mode on the board obtainable with the switches configuration shown in the figure below:
  ![Alt text](/img/switches.png?raw=true)
-
-
-
-
+- check the port number in which the board and the radar are connected, as shown below ( in this case are port number 3 and 4):
+![Alt text](/img/ports.png?raw=true)
+- The FTDI device ports of the DCA1000 board however won’t be available because their driver is not installed. The driver for these ports can be found in the mmWave Studio folder.
+- Connect thr Ethernet cable of the DCA1000  to the computer and in the local area network properties a static IPv4 address of 192.168.33.30 and a subnet mask of 255.255.255.0 need to be set.
+- Run the mmWaveStudio software
+-  Ensure that DCA1000 is selected.
+- Press “Set” in Reset control.
+- Select the right COM port number based on figure above and a Baud Rate of 115200 and connect.
+- Load the appropriate BSS (radarss.bin)
+- Load MSS firmware (Masterss.bin); The binary is based on the device variant being used (1243/1443/1642) and the silicon PG version being used (ES1.0, ES2.0, ES3.0).
+- Click the SPI Connect button.
+- Click the RF Power up button.
+ ![Alt text](/img/radar1.png?raw=true)
+ 
+ Now all connection are establish and this appear on the software:
+  ![Alt text](/img/status.pdf?raw=true)
