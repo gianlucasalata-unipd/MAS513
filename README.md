@@ -88,5 +88,5 @@ Follow all the steps described below to set up the radar:
 - Select the frame configuration and click Set.
 -  Select the Dump file pathname in which the radar data will be saved and click Set.
 ![Alt text](/img/radar4.png?raw=true)
--Click on  "SetUp DCA1000" on the left side of teh pannel
--In the pop up window click "Connect, Reset and configure"
+- Click on  "SetUp DCA1000" on the left side of teh pannel
+- In the pop up window click "Connect, Reset and configure"
