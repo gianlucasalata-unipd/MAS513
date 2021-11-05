@@ -90,3 +90,8 @@ Follow all the steps described below to set up the radar:
 ![Alt text](/img/radar4.png?raw=true)
 - Click on  "SetUp DCA1000" on the left side of teh pannel
 - In the pop up window click "Connect, Reset and configure"
+To start the acquisition press in order:
+- "DCA1000 ARM"
+- "Trigger Frame"
+- "Post Proc"
+- ![Alt text](/img/radar5.png?raw=true)
