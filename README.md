@@ -52,5 +52,10 @@ And this software:
 -	Code Composer Studio > v7.1 or CDS Emulation Software Package v6.0.579.0 or higher
 
 
+Follow all the steps described below to set up the radar:
+-  set to development mode on the board obtainable with the switches configuration shown in the figure below:
+ ![Alt text](/img/switches.png?raw=true)
+
+
 
 
