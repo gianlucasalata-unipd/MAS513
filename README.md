@@ -44,7 +44,8 @@ Follow all the steps described below to set up the vibration simulator
 
 To capture the radar data, the following hardware is required:
 -	AWR1843, 5V / >2.5A power supply, micro-USB cable.
-- DVA1000EVM, 5V / >2A power supply, micro-USB cable, RJ45 ethernet cable, 60pin Samtec cable .
+- DVA1000EVM, 5V / >2A power supply, micro-USB cable, RJ45 ethernet cable, 60pin Samtec cable.
+
 And this software:
 -	mmWave Studio (Version 2.1.1.0 will be used ).
 -	Matlab Runtime Engine v8.5.1 32bit.
