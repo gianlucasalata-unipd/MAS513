@@ -71,3 +71,22 @@ Follow all the steps described below to set up the radar:
  
  Now all connection are establish and this appear on the software:
   ![Alt text](/img/status.png?raw=true)
+- Move to "Radar Studio Static config" tab
+- Select the desired TX and RX channels,in ADC Config select the desired AD configuration and click Set.
+- Click the Set button in the Advanced Configuration box.
+- In the LP mode box select "Regular ADC".
+- Press "RF Init Done" button.
+    ![Alt text](/img/radar2.png?raw=true)
+- Move to "DataConfig" tab.
+- Clic Set button in the "data path config" box.    
+- Choose a 600[Mbps] clock rate and click.
+- Select the 4 LVDS lanes and click Set.
+![Alt text](/img/radar3.png?raw=true)
+- Move to "Sensorconfig" tab.
+- Define the FMCW chirp profile  and click Set.
+- Select the chirp configuration and click Set.
+- Select the frame configuration and click Set.
+-  Select the Dump file pathname in which the radar data will be saved and click Set.
+![Alt text](/img/radar4.png?raw=true)
+-Click on  "SetUp DCA1000" on the left side of teh pannel
+-In the pop up window click "Connect, Reset and configure"
