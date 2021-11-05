@@ -41,5 +41,16 @@ Follow all the steps described below to set up the vibration simulator
 - In order  to set the rotational speed of the shaft: from the VFD control panel, press the button _mode_ until a **F** appear on the screen and using the knob set the frequency. **ATTENTION**: The value on the screen is the supplying voltage frequncy in Hz, the corresponded rotational speed of the shaft is: omega=(60*F)/2;
  ![Alt text](/img/VFD.png?raw=true)
 - Press the button _motor run/stop_ to start up the motor. For safety reasons the plexiglass enclosure must be closed; this safety can be bypassed pressing the electrical switch located behind the motor for the entire motor's run.
-- 
+
+To capture the radar data, the following hardware is required:
+-	AWR1843, 5V / >2.5A power supply, micro-USB cable
+- DVA1000EVM, 5V / >2A power supply, micro-USB cable, RJ45 ethernet cable, 60pin Samtec cable 
+and this software:
+-	mmWave Studio (Version 2.1.1.0 will be used in this report)
+-	Matlab Runtime Engine v8.5.1 32bit
+-	Code Composer Studio > v7.1 or:
+ -	CDS Emulation Software Package v6.0.579.0 or higher
+
+
+
 
