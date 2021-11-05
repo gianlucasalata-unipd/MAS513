@@ -70,4 +70,4 @@ Follow all the steps described below to set up the radar:
  ![Alt text](/img/radar1.png?raw=true)
  
  Now all connection are establish and this appear on the software:
-  ![Alt text](/img/status.pdf?raw=true)
+  ![Alt text](/img/status.png?raw=true)
